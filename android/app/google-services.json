@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659067819349",
+    "project_id": "pkm-um-tensys",
+    "storage_bucket": "pkm-um-tensys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659067819349:android:66557d776085132b704bdc",
+        "android_client_info": {
+          "package_name": "com.pkmum.tensys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659067819349-sl42tc2cpka4obl9kg6cjn7i2vhq3k4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pkmum.tensys",
+            "certificate_hash": "fedfc15a23f8814e7a126663a375bcbc8b1b1eea"
+          }
+        },
+        {
+          "client_id": "659067819349-a88p2suo483u8pcf0omus31bs4q8rl78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzQFzg_PG8e2rvijLxvnfyyGXiGvnP3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659067819349-a88p2suo483u8pcf0omus31bs4q8rl78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
